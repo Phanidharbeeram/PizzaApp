@@ -1,0 +1,13 @@
+.maincontainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: auto;
+  justify-content: space-evenly;
+}
+.cart{
+  width: 4%;
+  height: 100%;
+  position: relative;
+  top:20px;
+  left: 0px;
+}
